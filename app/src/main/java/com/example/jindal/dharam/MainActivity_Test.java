@@ -10,5 +10,6 @@ public class MainActivity_Test extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //Comment added
+        //Comment added 2
     }
 }
